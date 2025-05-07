@@ -1,4 +1,4 @@
-# Internals of build process
+# Internals of build process 
 
 The purpose of this document is to explain build process **internals** with subtle nuances.
 This document is not by any means complete.

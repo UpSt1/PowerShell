@@ -921,7 +921,7 @@ dotnet_diagnostic.CA5364.severity = silent
 dotnet_diagnostic.CA5365.severity = silent
 
 # CA5366: Use XmlReader For DataSet Read Xml
-# https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca5366
+# https://learn.Microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca5366
 dotnet_diagnostic.CA5366.severity = silent
 
 # CA5367: Do Not Serialize Types With Pointer Fields
